@@ -1,5 +1,5 @@
-This is a old project finished in Spring 2015. This game is for cmput275 final project.
-一个简单的连连看游戏，图片素材来源于网络，背景音乐为Joe Hisaishi的summer，使用pygame库
+This is a old project finished in Spring 2015. This game is for cmput275 final project.  
+一个简单的连连看游戏，图片素材来源于网络，背景音乐为Joe Hisaishi的summer，使用pygame库  
 
 Rules of the game
 ------------------
